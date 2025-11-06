@@ -41,22 +41,39 @@ I’ve selected fundamental courses in statistics and computer science. Addition
 Main Courses:
 
 Probability Theory*
+
 Mathematical Statistics*
+
 Mathematical Analysis Essentials
+
 Operations Research and Optimization*
+
 Advanced Natural Language Processing*
+
 Distributed Storage and Parallel Computing*
+
 Bayesian Statistics*
+
 Statistical Leaming*
+
 Big Data Analysis Software and Application*
+
 Statistical Linear Models
+
 Multivariable Statistics
+
 Computer Programming Design
+
 Data Structure and Algorithm Analysis
+
 Advanced Natural Language Processing
+
 Discrete Mathematics and Applications
+
 Distributed Storage and Parallel Computing
+
 Artificial Intelligence
+
 Advanced Statistics Learning
 
 Courses marked with * represent that received “A” marks in the course.
