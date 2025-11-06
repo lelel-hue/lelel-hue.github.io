@@ -398,10 +398,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
@@ -411,6 +408,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-our-paper-biteeeg-was-accepted-by-bibm-2025",
           title: 'Our paper BiteEEG was accepted by BIBM 2025.',
+          description: "",
+          section: "News",},{id: "news-our-paper-gaussmedact-was-accepted-by-aaai-2026-sparkles",
+          title: 'Our paper GaussMedAct was accepted by AAAI 2026. :sparkles:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
