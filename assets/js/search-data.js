@@ -398,7 +398,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-biteeeg-was-accepted-by-bibm-2025",
+            },},{id: "news-i-received-the-first-class-outstanding-student-scholarship-at-sustech-top-3-smile",
+          title: 'I received the First-Class Outstanding Student Scholarship at SUSTech (top 3%). :smile:',
+          description: "",
+          section: "News",},{id: "news-our-paper-biteeeg-was-accepted-by-bibm-2025",
           title: 'Our paper BiteEEG was accepted by BIBM 2025.',
           description: "",
           section: "News",},{id: "news-our-paper-gaussmedact-was-accepted-by-aaai-2026-sparkles",
