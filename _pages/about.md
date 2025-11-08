@@ -10,6 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>lisq2022@mail.sustech.edu.cn</p>
+    
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -18,62 +19,48 @@ announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 I’m now a final-year undergraduate majoring in <b>Data Science, Statistic</b> at the [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech, Shenzhen, China). Throughout my undergraduate studies, I have engaged in various projects, particularly in large language models (LLMs), interdisciplinary AI, and multimodal learning.
 
+As a passionate person, I am sunny and cheerful, have done many volunteer services, and have strong leadership skills. I devote wholeheartedly to my field of interest, and have good enthusiasm and passion!
 
-Bachelor of Science in Data Science Big Data Technology
-Southern University of Science and Technology, Shenzhen, Guangdong
-Sept. 2022 - Present
 
-Overall GPA: <b>3.77</b>/4.0 (3.85 in Last Semester)
+## Background
 
-Weighted Avg. Score: 94.5/100
+**Bachelor of Science in Data Science Big Data Technology**  
+*Southern University of Science and Technology, Shenzhen, Guangdong*  
+*Sept. 2022 - Present*
 
-I’ve selected fundamental courses in statistics and computer science. Additionally, I’ve taken some cutting-edge theoretical courses to broaden my knowledge base and enhance my sensitivity to frontier technologies.
+> Overall GPA: 3.77/4.0 (3.85 in Last Semester)
+> 
+> Weighted Avg. Score: 94.5/100
 
-Main Courses:
 
-Probability Theory*
+In accordance with the school - prescribed curriculum, I've selected fundamental courses in statistics and computer science. Additionally, I've taken some cutting - edge theoretical courses to broaden my knowledge base and enhance my sensitivity to frontier technologies.
 
-Mathematical Statistics*
+**Main Courses** *(Courses marked with \* received “A” grades)*:
 
-Mathematical Analysis Essentials
+- **Mathematics and Statistics**:  
+  Probability Theory\*, Mathematical Statistics\*, Mathematical Analysis Essentials, Operations Research and Optimization\*, Bayesian Statistics\*, Statistical Learning\*, Statistical Linear Models, Multivariable Statistics, Advanced Statistics Learning  
 
-Operations Research and Optimization*
+- **Computer Science and Programming**:  
+  Computer Programming Design, Data Structure and Algorithm Analysis, Discrete Mathematics and Applications  
 
-Advanced Natural Language Processing*
+- **Big Data and Artificial Intelligence**:  
+  Advanced Natural Language Processing\*, Distributed Storage and Parallel Computing\*, Big Data Analysis Software and Application\*, Artificial Intelligence
 
-Distributed Storage and Parallel Computing*
+**Organizing Experience**
 
-Bayesian Statistics*
+- President of SUSTech Red Cross (Student), Secretary of SUSTech Emergency Rescue Association
+- Student Representative of Shuren College
+- Vice President of the School Chorus
 
-Statistical Leaming*
+## Previous Education
 
-Big Data Analysis Software and Application*
+**Guangzhou No.2 Middle and High School**  
+*Sept. 2016 - Jun. 2022*
 
-Statistical Linear Models
-
-Multivariable Statistics
-
-Computer Programming Design
-
-Data Structure and Algorithm Analysis
-
-Advanced Natural Language Processing
-
-Discrete Mathematics and Applications
-
-Distributed Storage and Parallel Computing
-
-Artificial Intelligence
-
-Advanced Statistics Learning
-
-Courses marked with * represent that received “A” marks in the course.
+- Focused on Science in High School
+- Outstanding Student Award for Three Consecutive Years
+- Leader of School String Orchestra
