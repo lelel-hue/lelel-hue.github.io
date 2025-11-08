@@ -447,9 +447,9 @@ ninja.data = [{
           description: "Momentum Modeling and Outcome Prediction in Tennis Matches",
           section: "Projects",handler: () => {
               window.location.href = "/projects/MCM/";
-            },},{id: "projects-sta-2024",
-          title: 'STA 2024',
-          description: "Content-Aware Image Resizing with Seam Carving",
+            },},{id: "projects-cs203b",
+          title: 'CS203B',
+          description: "Content-Aware Image Resizing with Seam Carving -- Crouse Project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/seamcarving/";
             },},{
