@@ -56,6 +56,7 @@ According to the school-prescribed curriculum, I’ve selected fundamental cours
 
 #### Guangzhou No.2 Middle and High School 
 > *Sept. 2016 - Jun. 2022*
+
 - Focused on Science in High School
 - Outstanding Student Award for Three Consecutive Years
 - Leader of School String Orchestra
