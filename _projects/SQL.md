@@ -4,7 +4,7 @@ title: STA323
 description: A Text-to-SQL Fine-tuning and Interactive Query System
 img: assets/img/SQL.jpg
 redirect: https://unsplash.com
-importance: 3
+importance: 1
 category: Crouse Project
 ---
 
