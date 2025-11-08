@@ -407,9 +407,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-gaussmedact-was-accepted-by-aaai-2026-sparkles",
           title: 'Our paper GaussMedAct was accepted by AAAI 2026. :sparkles:',
           description: "",
-          section: "News",},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+          section: "News",},{id: "projects-sta",
+          title: 'STA',
+          description: "A Text-to-SQL Fine-tuning and Interactive Query System",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
