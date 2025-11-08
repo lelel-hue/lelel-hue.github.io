@@ -407,9 +407,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-gaussmedact-was-accepted-by-aaai-2026-sparkles",
           title: 'Our paper GaussMedAct was accepted by AAAI 2026. :sparkles:',
           description: "",
-          section: "News",},{id: "projects-content-aware-image-resizing-with-seam-carving",
-          title: 'Content-Aware Image Resizing with Seam Carving',
-          description: "",
+          section: "News",},{id: "projects-sta-2024",
+          title: 'STA 2024',
+          description: "Content-Aware Image Resizing with Seam Carving",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
