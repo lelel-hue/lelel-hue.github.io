@@ -3,8 +3,8 @@ layout: page
 title: STA321
 description: Scalable System for Major Capital Flow Analytics in Financial Networks
 img: assets/img/major.png
-importance: 2
-category: work
+importance: 3
+category: Crouse Project
 ---
 
 ## Overview
