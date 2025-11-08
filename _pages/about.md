@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Southern University of Science and Technology</a>. Shenzhen, China.
+subtitle: <a href='#'>Southern University of Science and Technology</a>, Shenzhen, China.
 
 profile:
   align: right
