@@ -3,7 +3,7 @@ layout: page
 title: STA5007 
 description: Fine-tuning Gemma2 on Chinese GPT-4 QA Dataset
 img: assets/img/kaggle.png
-importance: 2
+importance: 4
 category: Crouse Project
 ---
 
