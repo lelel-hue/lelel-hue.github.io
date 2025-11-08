@@ -3,8 +3,8 @@ layout: page
 title: STA306
 description: "Article Reproduction: A Bayesian State-Space Formulation of Dynamic Occupancy Models"
 img: assets/img/bay.png
-importance: 7
-category: Crouse Project
+importance: 6
+category: Course Project
 ---
 
 ## Overview
