@@ -4,7 +4,7 @@ title: MCM 2024
 description: Momentum Modeling and Outcome Prediction in Tennis Matches
 img: assets/img/MCM.png
 importance: 1
-category: work
+category: Competition
 ---
 
 ## Overview
