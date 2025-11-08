@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CS203B 
+title: CUMCM 2024
 description: Research on Production Process Decision Model Based on Sampling Inspection and Profit Maximization
 img: assets/img/sample.png
 importance: 2
