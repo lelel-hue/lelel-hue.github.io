@@ -3,8 +3,8 @@ layout: page
 title: STA303
 description: Optimization of DQN Variants in Reinforcement Learning
 img: assets/img/RL.png
-importance: 2
-category: Crouse Project
+importance: 3
+category: Course Project
 ---
 
 ## Overview
