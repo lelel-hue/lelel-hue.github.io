@@ -447,9 +447,9 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-momentum-modeling-and-outcome-prediction-in-tennis-matches",
-          title: 'Momentum Modeling and Outcome Prediction in Tennis Matches',
-          description: "with background image",
+            },},{id: "projects-mcm-2024",
+          title: 'MCM 2024',
+          description: "Momentum Modeling and Outcome Prediction in Tennis Matches",
           section: "Projects",handler: () => {
               window.location.href = "/projects/MCM/";
             },},{
