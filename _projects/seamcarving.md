@@ -1,7 +1,7 @@
 ---
 layout: page
-title: STA 2024
-description: Content-Aware Image Resizing with Seam Carving
+title: CS203B 
+description: Content-Aware Image Resizing with Seam Carving -- Crouse Project
 img: assets/img/seamcarving.png
 importance: 2
 category: work
