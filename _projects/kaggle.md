@@ -3,11 +3,12 @@ layout: page
 title: STA5007 
 description: Fine-tuning Gemma2 on Chinese GPT-4 QA Dataset
 img: assets/img/kaggle.png
-importance: 4
-category: Crouse Project
+importance: 2
+category: Course Project
 ---
 
 ## Overview
+- Final Project -- Advanced Natural Language Processing (grade: 97)
 - Fine-tuned the **Gemma2 model** for Chinese QA tasks using the **Evol-Instruct-Chinese-GPT4** dataset.  
 - Leveraged **LoRA** for parameter-efficient adaptation and **RAG** for enhancing contextual understanding.  
 - Delivered a comprehensive analysis of the model’s performance, highlighting key improvement areas and proposing future optimizations for better generalization in unseen QA tasks.  
