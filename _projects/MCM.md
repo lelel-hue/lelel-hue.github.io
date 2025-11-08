@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 1
+title: Momentum Modeling and Outcome Prediction in Tennis Matches
 description: with background image
 img: assets/img/MCM.png
 importance: 1
 category: work
-related_publications: true
 ---
 
 <!-- 项目概述 -->
