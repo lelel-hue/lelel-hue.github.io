@@ -29,7 +29,7 @@ category: work
 <style>
   .pdf-preview .ratio {
     max-width: 100%;
-    height: auto;
+    height: 800px;
   }
 
   .btn {
