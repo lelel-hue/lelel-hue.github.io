@@ -407,37 +407,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-gaussmedact-was-accepted-by-aaai-2026-sparkles",
           title: 'Our paper GaussMedAct was accepted by AAAI 2026. :sparkles:',
           description: "",
-          section: "News",},{id: "projects-sta",
-          title: 'STA',
-          description: "A Text-to-SQL Fine-tuning and Interactive Query System",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
+          section: "News",},{id: "projects-project-9",
           title: 'project 9',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
@@ -447,6 +417,31 @@ ninja.data = [{
           description: "Momentum Modeling and Outcome Prediction in Tennis Matches",
           section: "Projects",handler: () => {
               window.location.href = "/projects/MCM/";
+            },},{id: "projects-sta303",
+          title: 'STA303',
+          description: "Optimization of DQN Variants in Reinforcement Learning",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RL/";
+            },},{id: "projects-sta306",
+          title: 'STA306',
+          description: "Article Reproduction: A Bayesian State-Space Formulation of Dynamic Occupancy Models",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/bay/";
+            },},{id: "projects-sta5007",
+          title: 'STA5007',
+          description: "Fine-tuning Gemma2 on Chinese GPT-4 QA Dataset",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/kaggle/";
+            },},{id: "projects-sta321",
+          title: 'STA321',
+          description: "Scalable System for Major Capital Flow Analytics in Financial Networks",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/major/";
+            },},{id: "projects-cumcm-2024",
+          title: 'CUMCM 2024',
+          description: "Research on Production Process Decision Model Based on Sampling Inspection and Profit Maximization",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/sample/";
             },},{id: "projects-cs203b",
           title: 'CS203B',
           description: "Content-Aware Image Resizing with Seam Carving -- Crouse Project",
