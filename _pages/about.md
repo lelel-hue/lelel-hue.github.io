@@ -28,13 +28,13 @@ As a passionate person, I am sunny and cheerful, have done many volunteer servic
 
 ## Background
 
-#### Bachelor of Science in Data Science Big Data Technology
-*Southern University of Science and Technology, Shenzhen, Guangdong*  
+#### B.Sc. in Statistics (Data Science)
+*Southern University of Science and Technology, Shenzhen, China*  
 *Sept. 2022 - Present*
 
-*Overall GPA: 3.77/4.0 (3.85 in Last Semester)* 
+*Overall GPA: **3.77**/4.0 (3.85 in Last Semester)* 
 
-*Weighted Avg. Score: 94.5/100*
+*Weighted Avg. Score: **94.5**/100*
 
 According to the school-prescribed curriculum, I’ve selected fundamental courses in statistics and computer science. Additionally, I’ve taken some cutting-edge theoretical courses to broaden my knowledge base and enhance my sensitivity to frontier technologies.
 
@@ -49,14 +49,3 @@ According to the school-prescribed curriculum, I’ve selected fundamental cours
 - **Big Data and Artificial Intelligence**:  
   Advanced Natural Language Processing\*, Distributed Storage and Parallel Computing\*, Big Data Analysis Software and Application\*, Artificial Intelligence
 
-**Organizing Experience**
-
-- President of SUSTech Red Cross (Student), Secretary of SUSTech Emergency Rescue Association
-- Student Representative of Shuren College
-- Vice President of the School Chorus
-
-#### Guangzhou No.2 Middle and High School 
-*Sept. 2016 - Jun. 2022*
-- Focused on Science in High School
-- Outstanding Student Award for Three Consecutive Years
-- Leader of School String Orchestra
