@@ -24,7 +24,7 @@ category: Course Project
   </div>
   <div class="row justify-content-center mt-4">
     <div class="col-12 col-md-4 text-center">
-      <a href="/assets/pdf/SQL.pdf" class="btn btn-primary btn-lg" download="SQL.pdf">Download Project PDF</a>
+      <a href="/assets/pdf/SQL.pdf" class="btn btn-primary btn-lg" download="SQL.pdf">Download the Project PDF</a>
     </div>
   </div>
 </div>
