@@ -422,6 +422,11 @@ ninja.data = [{
           description: "Optimization of DQN Variants in Reinforcement Learning",
           section: "Projects",handler: () => {
               window.location.href = "/projects/RL/";
+            },},{id: "projects-sta323",
+          title: 'STA323',
+          description: "A Text-to-SQL Fine-tuning and Interactive Query System",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/SQL/";
             },},{id: "projects-sta306",
           title: 'STA306',
           description: "Article Reproduction: A Bayesian State-Space Formulation of Dynamic Occupancy Models",
