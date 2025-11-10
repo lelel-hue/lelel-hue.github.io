@@ -47,5 +47,3 @@ category: Course Project
   }
 </style>
 
-
-{% endraw %}
