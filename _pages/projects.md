@@ -5,7 +5,7 @@ permalink: /projects/
 description: Collection of course projects and competition projects!
 nav: true
 nav_order: 3
-display_categories: ["Course Project", Competition, Proposal]
+display_categories: [Competition, "Course Project", Proposal]
 horizontal: false
 ---
 
