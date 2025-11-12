@@ -6,7 +6,7 @@ subtitle: <a href='#'>Southern University of Science and Technology</a>, Shenzhe
 
 profile:
   align: right
-  image: profile.jpg
+  image: profile1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>lisq2022@mail.sustech.edu.cn</p>
