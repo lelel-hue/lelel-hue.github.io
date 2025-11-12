@@ -18,7 +18,7 @@ category: Course Project
   <div class="row justify-content-center mt-4">
     <div class="col-12 col-md-10">
       <div class="ratio ratio-4x3">
-        <iframe src="/assets/pdf/SQL.pdf" title="Seamcarving Report" allowfullscreen style="width: 100%; height: 100%; border: none;"></iframe>
+        <iframe src="/assets/pdf/SQL.pdf" title="SQL Report" allowfullscreen style="width: 100%; height: 100%; border: none;"></iframe>
       </div>
     </div>
   </div>
