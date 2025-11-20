@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I received the First-Class Outstanding Student Scholarship at SUSTech (top 3%). :smile:
+I received the First-Class Outstanding Student Scholarship at SUSTech (top 3%). 

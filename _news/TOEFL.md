@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My latest official TOEFL score has reached 105! :partying_face:
+My latest official TOEFL score has reached 105! (R30 L24 S26 W25) :partying_face:

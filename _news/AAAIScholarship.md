@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I’ve been accepted into the AAAI-26 Student Scholarship and Volunteer Program! See you in Singapore! :tada:
+I’ve been accepted into the AAAI-26 Student Scholarship! See you in Singapore! :tada:

@@ -49,3 +49,12 @@ According to the school-prescribed curriculum, I’ve selected fundamental cours
 - **Big Data and Artificial Intelligence**:  
   Advanced Natural Language Processing\*, Distributed Storage and Parallel Computing\*, Big Data Analysis Software and Application\*, Artificial Intelligence
 
+## Ongoing Projects
+
+#### Conversational Digital Twins with LLMs  
+*since July 2025*  
+Developing a framework for conversational digital twins using large language models. Implemented advanced data preprocessing and fine-tuned Qwen-32B/Llama3.3-70B to achieve state-of-the-art personality simulation fidelity for human-like replication.
+
+#### Specialized Medical LLM with Multimodal RAG  
+*since September 2025*  
+Building an end-to-end medical LLM with Retrieval-Augmented Generation. Curating a multimodal knowledge base integrating textual and visual medical information to enhance domain understanding and clinical decision support.
