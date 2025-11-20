@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Southern University of Science and Technology</a>, Shenzhen, China.
+subtitle: <a href='#'>Southern University of Science and Technology (SUSTech)</a>, Shenzhen, China.
 
 profile:
   align: right
@@ -21,7 +21,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-I’m now a final-year undergraduate majoring in <b>Data Science, Statistic</b> at the [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech, Shenzhen, China). Throughout my undergraduate studies, I have engaged in various projects, particularly in large language models (LLMs), interdisciplinary AI, and multimodal learning.
+I’m now a final-year undergraduate majoring in <b>Data Science, Statistic</b> at SUSTech. Throughout my undergraduate studies, I have engaged in various projects, particularly in large language models (LLMs), interdisciplinary AI, and multimodal learning.
 
 As a passionate person, I am sunny and cheerful, have done many volunteer services, and have strong leadership skills. I devote wholeheartedly to my field of interest, and have good enthusiasm and passion!
 
