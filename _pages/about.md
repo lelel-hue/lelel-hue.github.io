@@ -21,7 +21,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-I am an incoming Ph.D. student in Computer Science and Engineering at The Ohio State University (OSU), advised by [Prof. Xia Ning](https://cse.osu.edu/people/ning.104). I received my B.S. in Statistics and Data Science from the Southern University of Science and Technology (SUSTech).
+I am an incoming Ph.D. student in Computer Science and Engineering at The Ohio State University (OSU), advised by [Prof. Xia Ning](https://cse.osu.edu/people/ning.104). I received my B.S. in Statistics and Data Science from SUSTech.
 
 My research interests lie in large language models (LLMs), interdisciplinary AI, and multimodal learning. I am particularly interested in building foundation models and intelligent systems that bridge methodologies across domains and translate cutting-edge AI advances into real-world impact.
 
