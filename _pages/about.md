@@ -9,7 +9,7 @@ profile:
   image: profile1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>li.17148@ous.edu</p>
+    <p>li.17148@osu.edu</p>
     
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
