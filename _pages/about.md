@@ -9,7 +9,7 @@ profile:
   image: profile1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>lisq2022@mail.sustech.edu.cn</p>
+    <p>li.17148@ous.edu</p>
     
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -21,40 +21,8 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-I’m now a final-year undergraduate majoring in <b>Data Science, Statistic</b> at SUSTech. Throughout my undergraduate studies, I have engaged in various projects, particularly in large language models (LLMs), interdisciplinary AI, and multimodal learning.
+I am an incoming Ph.D. student in Computer Science and Engineering at The Ohio State University (OSU), advised by [Prof. Xia Ning](https://cse.osu.edu/people/ning.104). I received my B.S. in Statistics and Data Science from the Southern University of Science and Technology (SUSTech).
+
+My research interests lie in large language models (LLMs), interdisciplinary AI, and multimodal learning. I am particularly interested in building foundation models and intelligent systems that bridge methodologies across domains and translate cutting-edge AI advances into real-world impact.
 
 As a passionate person, I am sunny and cheerful, have done many volunteer services, and have strong leadership skills. I devote wholeheartedly to my field of interest, and have good enthusiasm and passion!
-
-
-## Background
-
-#### B.Sc. in Statistics (Data Science)
-*Southern University of Science and Technology, Shenzhen, China*  
-*Sept. 2022 - Present*
-
-*Overall GPA: **3.77**/4.0 (3.85 in Last Semester)* 
-
-*Weighted Avg. Score: **94.5**/100*
-
-According to the school-prescribed curriculum, I’ve selected fundamental courses in statistics and computer science. Additionally, I’ve taken some cutting-edge theoretical courses to broaden my knowledge base and enhance my sensitivity to frontier technologies.
-
-**Main Courses** *(Courses marked with \* received “A” grades)*:
-
-- **Mathematics and Statistics**:  
-  Probability Theory\*, Mathematical Statistics\*, Mathematical Analysis Essentials, Operations Research and Optimization\*, Bayesian Statistics\*, Statistical Learning\*, Statistical Linear Models, Multivariable Statistics, Advanced Statistics Learning  
-
-- **Computer Science and Programming**:  
-  Computer Programming Design, Data Structure and Algorithm Analysis, Discrete Mathematics and Applications  
-
-- **Big Data and Artificial Intelligence**:  
-  Advanced Natural Language Processing\*, Distributed Storage and Parallel Computing\*, Big Data Analysis Software and Application\*, Artificial Intelligence
-
-## Ongoing Projects
-
-#### Conversational Digital Twins with LLMs  
-*since July 2025*  
-Developing a framework for conversational digital twins using large language models. Implemented advanced data preprocessing and fine-tuned Qwen-32B/Llama3.3-70B to achieve state-of-the-art personality simulation fidelity for human-like replication.
-
-#### Specialized Medical LLM with Multimodal RAG  
-*since September 2025*  
-Building an end-to-end medical LLM with Retrieval-Augmented Generation. Curating a multimodal knowledge base integrating textual and visual medical information to enhance domain understanding and clinical decision support.
